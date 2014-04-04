@@ -1,5 +1,7 @@
 // object to describe a mathematical point
 
+#ifndef POINT_H
+#define POINT_H
 #include <math.h>
 
 using namespace std;
@@ -33,3 +35,4 @@ private:
 	//float pR;
 	//float pTheta;
 };
+#endif
