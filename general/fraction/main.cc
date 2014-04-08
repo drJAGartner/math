@@ -1,7 +1,5 @@
 /**************************************
-* rollin' dice				  *
-* this is an example of how to use	  *
-* the dice class, with verbose output *
+* demonstrate fraction class features *
 **************************************/
 
 
